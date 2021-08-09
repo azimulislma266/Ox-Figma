@@ -1,0 +1,470 @@
+
+.section-hero-1 {
+  background: #F9F8F9;
+
+}
+
+#section-hero-2 {
+  background: #F2FCFF;
+ 
+}
+
+#bg-3{
+
+ background-color: #F4FBFF;
+ 
+}
+
+#bg-4 {
+
+  background: #F4FBFF;
+}
+
+.navbar.navbar-expand-lg.navbar-light {
+  background: #ffffff;
+}
+
+.navbar-brand {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 23px;
+  letter-spacing: 1.5px;
+  color: #2d2f30;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.btn.btn-outline-success {
+  background: transparent;
+}
+
+#brand\"\" {
+  position: absolute;
+  top: 0;
+  left: 14px;
+
+  top: 4px;
+  clear: #fff;
+}
+
+.form-control.me-2 {
+  border: none;
+}
+
+.btn.btn-outline-success {
+  border: none;
+}
+
+.nav-link {
+  font-weight: 500;
+
+  margin-right: 30px;
+
+  background: hsba(200, 6%, 19%, 1);
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 23px;
+}
+
+.form-control.me-2 {
+  border: none;
+}
+
+.d-flex {
+  position: relative;
+}
+
+#span {
+  width: 100%;
+}
+
+#brand\"\" {
+  color: white;
+  top: 7px;
+  text-transform: full-width;
+  left: 9px;
+}
+
+#flot-left {
+  float: left;
+}
+
+.hadding {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 81px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #094b72;
+}
+
+#p-1 {
+  font-family: Plus Jakarta Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 158%;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.5px;
+  color: #4f4f4f;
+}
+
+.btn-btn {
+  width: 190px;
+  height: 80px;
+  background: #094b72;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  font-family: Plus Jakarta Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 140.5%;
+
+  color: #f9f8f9;
+  letter-spacing: 0.08em;
+  text-decoration: none;
+}
+
+.btn-btn:hover {
+  color: #000;
+}
+
+.Trusted {
+  font-family: Plus Jakarta Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 140.5%;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.04em;
+  color: #8b8c8c;
+}
+
+#card-tite {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 64px;
+  letter-spacing: 0.323077px;
+  color: #2d2f30;
+}
+
+#card-text {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 36px;
+  letter-spacing: 0.5px;
+  color: #8b8c8c;
+}
+
+#card-h {
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+
+  border-radius: 0.25rem;
+  background: transparent;
+  border: none;
+}
+
+.card-text {
+  font-family: Plus Jakarta Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 0.3px;
+  color: #8b8c8c;
+}
+
+.card-title {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 22px;
+  letter-spacing: 0.5px;
+}
+
+.font {
+  width: 50px;
+  padding-bottom: 10px;
+}
+
+#p-2 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 32px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  font-feature-settings: "salt" on, "liga" off;
+  /*! color: #ffffff; */
+}
+#hadding-1 {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 64px;
+  text-align: center;
+  letter-spacing: 0.005em;
+  font-feature-settings: "salt" on, "liga" off;
+  /*! color: #ffffff; */
+}
+#bg-3 {
+ 
+background: url(./img/blurry-gradient-haikei.svg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+#hadding-number {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 48px;
+  line-height: 64px;
+  /* identical to box height, or 133% */
+
+  text-align: center;
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Default / White */
+
+  /*! color: #ffffff; */
+}
+
+#pera {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 32px;
+  /* identical to box height, or 178% */
+
+  text-align: center;
+  letter-spacing: 0.3px;
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Default / White */
+
+  /*! color: #ffffff; */
+}
+
+#hadding-3 {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 64px;
+  /* identical to box height, or 133% */
+
+  text-align: center;
+  letter-spacing: 0.5px;
+  font-feature-settings: "salt" on, "liga" off;
+
+  /* Neutral / Grey 7 */
+
+  color: #2d2f30;
+}
+
+.img-fluid.rounded-center {
+  border-radius: 10px;
+}
+
+ul li {
+  list-style: none;
+ 
+  /* Body / Body 1 */
+
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+font-feature-settings: 'salt' on, 'liga' off;
+
+/* Text / Gray 200 */
+
+color: #EEEFF4;
+
+
+}
+
+#img-round {
+  border-radius: 10px;
+}
+
+.card-body {
+  flex: 1 1 auto;
+  padding: 0rem 1rem;
+}
+
+#cardbody {
+  padding: 0rem 1rem;
+}
+
+.card-title {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  text-align: center;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #151617;
+}
+
+.card-text {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #4F4F4F;
+}
+
+.card-text {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  text-align: center;
+  letter-spacing: 0.5px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #4F4F4F;
+}
+
+
+#card-txt {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #2D2F30;
+  flex: none;
+      flex-grow: 0;
+  order: 1;
+  flex-grow: 0;
+  margin: 0px 0px;
+}
+
+
+#card-t-h1 {
+  font-family: Playfair Display;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 64px;
+
+  letter-spacing: 0.5px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #2D2F30;
+
+}
+
+
+#card-p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.5px;
+  color: #4F4F4F;
+}
+
+
+button {
+  background: #0F6E8C;
+
+  width: 219px;
+  height: 64px;
+  left: 165px;
+  top: 3005px;
+  border: none;
+  border-radius: 10px;
+
+}
+
+#border {
+  border-radius: 10px;
+}
+
+#border {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 36px;
+  color: #fff;
+}
+
+#hadding-p {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #F4F5F7;
+  margin-left: 2rem;
+}
+
+footer {
+  background: #0F6E8C;
+}
+
+
+
+.fotor-bg {
+  
+    background: #003646;
+    
+  mix-blend-mode: normal;
+  padding: 25px 0px;
+}
+
+#rserved {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+  font-feature-settings: 'salt' on, 'liga' off;
+  color: #000;
+}
+
+#link-i {
+  padding: 10;
+  padding-right: 30px;
+  color: #000;
+}
+
+
+#serch {
+  background: transparent;
+}
